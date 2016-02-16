@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-11T18:32:06.062Z'
-dateModified: '2016-02-11T18:31:43.001Z'
+datePublished: '2016-02-16T20:49:19.045Z'
+dateModified: '2016-02-16T20:49:16.794Z'
 title: Ft. Lauderdale
 author: []
 authors: []
